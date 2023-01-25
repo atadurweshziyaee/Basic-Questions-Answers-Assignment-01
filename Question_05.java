@@ -21,7 +21,7 @@ class Question_05 {
         num5 = scan.nextFloat();
         
         // Calculating average.
-        
+
         average = (num1 + num2 + num3 + num4 + num5) / 5;
 
         System.out.println("The average of five number is " + average);
