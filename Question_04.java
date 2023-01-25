@@ -11,7 +11,7 @@ class Question_04 {
         num1 = scan.nextFloat();
         System.out.println("Enter the second input :-");
         num2 = scan.nextFloat();
-        // Addition, Subtraction, Multiplication, Division, Remainder.
+        // Addition, Subtraction, Multiplication, Division and Remainder.
 
         System.out.println("The addition of the two numbers is " + num1 + "+" + num2 + "=" + (num1 + num2));
         System.out.println("The subtraction of the two numbers is " + num1 + "-" + num2 + "=" + (num1 - num2));
